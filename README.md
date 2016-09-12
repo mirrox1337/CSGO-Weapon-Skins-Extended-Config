@@ -9,5 +9,7 @@ Link to Original Creators Github "https://github.com/Franc1sco/Franug-Weapon_Pai
 # Changelog
 
 Added Every Skin From Gamma 2 Case
+
 Added 100% Fade on Karambit, Bayonet, M9 Bayonet, Gut Knife and Flip Knife
+
 Added Fire & Ice Pattern (Only Works on Karambit, Bayonet, Gut Knife and Flip Knife)
